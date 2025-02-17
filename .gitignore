@@ -1,3 +1,5 @@
 c-programming/**/[^.]*
 !c-programming/**/
 !c-programming/**/*.*
+assembly/**
+!assembly/**/*.asm
